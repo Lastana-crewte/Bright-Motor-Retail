@@ -11,7 +11,7 @@ This project focuses on cleaning, transforming, and analyzing a car sales datase
 
 ## 🛠️ Tools & Technologies
 
-* **Databricks / Spark SQL** – Data cleaning and transformation
+* **Databricks  – Data cleaning and transformation
 * **SQL** – Data manipulation and feature engineering
 * **Power BI / Looker Studio** – Data visualization and dashboarding
 * **Excel / PowerPoint** – Reporting and presentation
